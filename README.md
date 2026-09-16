@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: ssxnck34@gmail.com, majid89us@hotmail.com
-At: 2026-09-16 15:55:06
-Id: uURrlwb0
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: pweidenborner@gmail.com, seann-patrick@hotmail.com
+At: 2026-09-16 15:55:46
+Id: d3XGbY10
